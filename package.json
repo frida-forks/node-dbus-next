@@ -40,7 +40,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/dbusjs/node-dbus-next.git"
+    "url": "https://github.com/frida-forks/node-dbus-next.git"
   },
   "dependencies": {
     "@frida/put": "^1.0.0",
